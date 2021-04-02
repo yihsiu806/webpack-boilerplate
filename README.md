@@ -35,6 +35,10 @@ npx webpack --config webpack.config.js
 }
 ```
 
+### `webpack.config.js`
+
+Reference the file.
+
 ## Bundler
 
 | bundler |
