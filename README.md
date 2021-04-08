@@ -17,6 +17,7 @@ npm run build
 ```
 npm init -y
 npm i -D webpack webpack-cli
+npm i -D html-loader
 npm i -D style-loader css-loader
 npm i -D sass-loader sass
 npm i -D webpack-dev-server
