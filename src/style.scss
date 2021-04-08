@@ -1,0 +1,18 @@
+@import "bulma/css/bulma.css";
+
+$font-stack: Arial, Helvetica, sans-serif;
+$light-color: #f4f4f4;
+$red-color: #f44336;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $light-color;
+  font-family: $font-stack;
+  line-height: 1.6;
+  color: $red-color;
+}
