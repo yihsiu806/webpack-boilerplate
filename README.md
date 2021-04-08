@@ -1,15 +1,16 @@
 # Webpack Boilerplate
 
-* Start development server
+- Start development server
+
 ```
 npm start
 ```
 
-* Build
+- Build
+
 ```
 npm run build
 ```
-
 
 ## Install
 
@@ -17,6 +18,7 @@ npm run build
 npm init -y
 npm i -D webpack webpack-cli
 npm i -D style-loader css-loader
+npm i -D sass-loader sass
 npm i -D webpack-dev-server
 ```
 
@@ -26,6 +28,7 @@ npx webpack --config webpack.config.js
 ```
 
 ### `package.json`
+
 ```
 {
   "scripts": {
